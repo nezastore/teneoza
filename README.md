@@ -9,7 +9,7 @@ Before running the extension, make sure you register first if you haven't regist
 - Open Ektension
 - Name : Teneo Community Node
 - Create Account
-- Enter Code : jSWys
+- Enter Code : x6HWm
 - Verify Email
 - Run Nodes Ektension
 - Get 2500 Node Point
